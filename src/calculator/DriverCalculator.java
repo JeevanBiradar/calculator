@@ -35,7 +35,7 @@ public class DriverCalculator {
 		
 		case 3:
 		{
-			//multiplication implementation
+			c1.mul(a, b);
 		}
 		
 		case 4:
