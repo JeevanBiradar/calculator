@@ -16,7 +16,7 @@ public class DriverCalculator {
 		
 		System.out.println("Enter a value:");
 		int a=sc.nextInt();
-		System.out.println("Enter a value:");
+		System.out.println("Enter b value:");
 		int b=sc.nextInt();
 		
 		
