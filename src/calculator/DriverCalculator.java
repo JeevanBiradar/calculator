@@ -35,7 +35,8 @@ public class DriverCalculator {
 		
 		case 3:
 		{
-			c1.mul(a, b);
+			
+			System.out.println(c1.mul(a, b));
 		}
 		
 		case 4:
