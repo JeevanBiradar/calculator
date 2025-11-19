@@ -16,7 +16,7 @@ public class DriverCalculator {
 		
 		System.out.println("Enter a value:");
 		int a=sc.nextInt();
-		System.out.println("Enter a value:");
+		System.out.println("Enter b value:");
 		int b=sc.nextInt();
 		
 		
@@ -26,6 +26,7 @@ public class DriverCalculator {
 		case 1:
 		{
 			//addition implementation
+			System.out.println(c1.add(a, b));
 		}
 		 
 		case 2:
